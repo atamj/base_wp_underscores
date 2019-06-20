@@ -1,6 +1,8 @@
 <?php
 /**
  * The template for displaying comments
+ * * *
+ * @package base_wp_underscores
  */
 if ( post_password_required() ) {
 	return;

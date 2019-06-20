@@ -1,6 +1,8 @@
 <?php
 /**
  * The template for displaying all pages
+ * * *
+ * @package base_wp_underscores
  */
 
 get_header();

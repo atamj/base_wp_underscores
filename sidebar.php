@@ -1,6 +1,8 @@
 <?php
 /**
  * The sidebar containing the main widget area
+ * * *
+ * @package base_wp_underscores
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *

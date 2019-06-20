@@ -1,6 +1,8 @@
 <?php
 /**
  * Template for displaying archive pages
+ * * *
+ * @package base_wp_underscores
  */
 
 get_header();

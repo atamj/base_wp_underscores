@@ -1,6 +1,8 @@
 <?php
 /**
  * Template Header
+ * * *
+ * @package base_wp_underscores
  */
 ?>
 <!doctype html>

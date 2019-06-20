@@ -1,6 +1,8 @@
 <?php
 /**
  * Template footer
+ * * *
+ * @package base_wp_underscores
  */
 ?>
 
